@@ -1,0 +1,24 @@
+package Library;
+
+public enum Catalog {
+    NOVEL,
+    DETECTIVE,
+    SCIENCE_FICTION,
+    FANTASY,
+    MYSTERY,
+    HISTORICAL_FICTION,
+    POETRY,
+    NON_FICTION,
+    BIOGRAPHY,
+    AUTOBIOGRAPHY,
+    CLASSICS,
+    ADVENTURE,
+    DRAMA,
+    THRILLER,
+    COMEDY,
+    HORROR,
+    PHILOSOPHY,
+    RELIGION,
+    ESSAY
+}
+
